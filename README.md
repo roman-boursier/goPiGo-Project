@@ -6,7 +6,7 @@
 L’objectif de ce projet est la réalisation d’un robot capable de chercher et trouver un objet désigné. On indique dans un premier temps au robot un objet, celui-ci est alors capable de parcourir l’espace, reconnaître l’objet, et se diriger vers celui-ci.
  
 <h2>2. Les technologies et matériels utilisés</h2>
-<h3>2.1 Hardware<h3>
+<h3>2.1 Hardware</h3>
 <ul>
 <li>Raspberry Pi 3 + Gopigo</li>
 <li>Capteur ultrason</li>
